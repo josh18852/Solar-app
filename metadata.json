@@ -1,0 +1,6 @@
+{
+  "name": "Solar Planner",
+  "description": "Professional solar system sizing calculator, load analyzer, and bill of materials generator for residential and off-grid solar planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
